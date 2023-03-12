@@ -7,7 +7,7 @@ import (
 	c "github.com/iKurum/ikufile/config"
 	logs "github.com/iKurum/ikufile/utils/log"
 
-	"gopkg.in/yaml.v2"
+	"gopkg.in/yaml.v3"
 )
 
 // 展示信息
